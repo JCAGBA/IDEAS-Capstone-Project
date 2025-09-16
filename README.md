@@ -39,7 +39,7 @@ Businesses generate large amounts of sales and feedback data, but without struct
 
 ## 📸 Dashboard Previews
 ### 1. Customer Feedback & Satisfaction Dashboard  
-images/Screenshot 2025-09-16 123258.png
+! [Dashboard 1](https://github.com/JCAGBA/IDEAS-Capstone-Project/blob/main/images/Screenshot%202025-09-16%20123258.png?raw=true)
 
 ### 2. Sales & Regional Performance Dashboard  
 images/Screenshot 2025-09-16 123258.png  
